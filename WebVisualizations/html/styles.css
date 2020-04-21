@@ -1,0 +1,52 @@
+
+@media(max-width: 992px){
+
+.navbar-expand-lg{
+
+background-color: white !important;
+
+}
+
+.navbar{
+
+  max-height: none;
+
+  padding: inherit;
+
+}
+
+.navbar div{
+
+  margin: inherit;
+
+  background-color: grey; 
+
+}
+
+.navbar-brand{
+
+  padding: 10px !important;
+
+}
+
+
+
+button{
+
+  margin-right: 30px;
+
+}
+
+button:focus {
+
+
+
+  outline: 1px dotted;
+
+  outline: 5px auto -webkit-focusring-color;
+
+ 
+
+  }
+
+}
